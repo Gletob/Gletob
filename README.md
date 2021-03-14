@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Network automation, home automation, ebikes, and cooking
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... Message me on here
+- 📫 How to reach me ... Message me on
 
 <!---
 Gletob/Gletob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
